@@ -21,7 +21,7 @@
 ## 報名連結
 
 * 2023.11.24 (五) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第一梯次)](https://www.accupass.com/go/no-code-gpt) (已額滿)
-* 2023.11.27 (一) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第二梯次)](https://www.accupass.com/go/no-code-gpt-2) (熱烈報名中...)
+* 2023.11.27 (一) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第二梯次)](https://www.accupass.com/go/no-code-gpt-2) (已額滿)
 
 ## 前言
 
@@ -39,11 +39,15 @@
 
 由於本次課程所使用的平台是 ChatGPT 最新推出的 GPTs 或稱 Custom GPT 功能，該功能目前僅限付費用戶使用，因此請務必在上課前升級你的帳號為 ChatGPT Plus 帳號。
 
-另外，如果你最近才升級到 ChatGPT Plus 帳號的話，也許你會發現你的帳號還沒有開通 Custom GPT 功能，這是因為你的帳號還沒有通過審核，請耐心等候，等待審核通過。
-
-如果上課時都還沒有審核通過也沒關係，我們的課程可以讓各位在課後無限次數查看 3 個月，因此你可以在課後再來看影片複習。
+如果你最近才打算升級到 ChatGPT Plus 帳號的話，有些人可能會發現無法在 ChatGPT 網站購買升級方案，如下圖示 **Sign up for waitlist** 就是要你先排隊才能購買：
 
 ![ChatGPT Plus](https://github.com/doggy8088/Learn-Git-in-30-days/assets/88981/ca888498-2a52-4efe-91d5-78b841ff4cea)
+
+我最近有找到一個方法可以跳過等待程序，直接可以訂閱 ChatGPT Plus 方案。你只要直接點選以下連結，就可以直接訂閱 ChatGPT Plus 方案了：
+
+* <https://chat.openai.com/invite/accepted>
+
+如果上課時都還沒有辦法升級到 ChatGPT Plus 也沒關係，我們的課程可以讓各位在課後無限次數查看 3 個月，因此你可以在課後再來看影片複習。
 
 ## 驗證你已經可以使用 GPTs 功能
 
