@@ -1,0 +1,5 @@
+title: 一小時 No-Code 自製客服機器人 GPT 學員課前注意事項
+description: 這是一小時 No-Code 自製客服機器人 GPT 學員課前注意事項
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
