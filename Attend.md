@@ -4,6 +4,4 @@
 
 由於我們上課時會採用 [Zoom](https://zoom.us/zh-tw/download) 軟體進行授課，而**上課的 Zoom 會議室連結**實際上是會透過另外的郵件通知學員，郵件主旨會是：
 
-> 【上課通知】一小時 No-Code 自製客服機器人 GPT
-
 如果你沒有收到通知郵件，請立即[寫信](mailto:training@miniasp.com)與我們聯繫！🔥
