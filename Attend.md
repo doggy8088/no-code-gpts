@@ -2,6 +2,4 @@
 
 各位同學大家好，如果你點擊了 Accupass 的票卷連結，並且點其上面的連結想要上課，那麼你就會開啟這個網頁，其實這個網址並非上課連結，請仔細閱讀以下說明。
 
-由於我們上課時會採用 [Zoom](https://zoom.us/zh-tw/download) 軟體進行授課，而**上課的 Zoom 會議室連結**實際上是會透過另外的郵件通知學員，郵件主旨會是：
-
-如果你沒有收到通知郵件，請立即[寫信](mailto:training@miniasp.com)與我們聯繫！🔥
+由於我們上課時會採用 [Zoom](https://zoom.us/zh-tw/download) 軟體進行授課，而**上課的 Zoom 會議室連結**實際上是會透過另外的郵件通知學員，如果你沒有收到通知郵件，請立即[寫信](mailto:training@miniasp.com)與我們聯繫！🔥
