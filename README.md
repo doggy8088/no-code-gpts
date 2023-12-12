@@ -22,6 +22,7 @@
 
 * 2023.11.24 (五) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第一梯次)](https://www.accupass.com/go/no-code-gpt) (已額滿)
 * 2023.11.27 (一) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第二梯次)](https://www.accupass.com/go/no-code-gpt-2) (已額滿)
+* 2023.12.14 (四) 20:00 - 22:00 [一小時 No-Code 自製客服機器人 GPT (第三梯次)](https://www.accupass.com/go/no-code-gpt-2) (報名中...)
 
 ## 前言
 
