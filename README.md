@@ -32,7 +32,7 @@
 
 ## 註冊 OpenAI 帳號
 
-請務必事先註冊號一個 OpenAI 帳號，只要你有用過 [ChatGPT](https://chat.openai.com/) 的話，那麼你已經有帳號了。
+請務必事先註冊好一個 OpenAI 帳號，只要你有用過 [ChatGPT](https://chat.openai.com/) 的話，那麼你已經有帳號了。
 
 ![ChatGPT](https://github.com/doggy8088/Learn-Git-in-30-days/assets/88981/7e593cf2-b66b-403e-8453-93149ea1023c)
 
